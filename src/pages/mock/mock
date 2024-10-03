@@ -1,0 +1,63 @@
+export default supermercados = [
+  {
+    "id": 1,
+    "nome": "Supermercado Econômico",
+    "oferta": "Promoção de Verão",
+    "descricao": "Em oferta",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ0EHi5KUd7uuvzm8BvwZa7MxgnQlWSxC1iKE_3aoYqg&s",
+    "produtos": [
+      { "nome_produto": "Arroz 5kg", "valor": 15.00 },
+      { "nome_produto": "Feijão 1kg", "valor": 6.00 },
+      { "nome_produto": "Óleo de Soja 900ml", "valor": 7.00 }
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Supermercado Popular",
+    "oferta": "Queima de Estoque",
+    "descricao": "Não está em oferta",
+    "imagem": "https://scontent.fthe6-1.fna.fbcdn.net/v/t39.30808-6/277755660_528925695329754_837701553869457097_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=CrXJP_gEZXgQ7kNvgE56Yrm&_nc_ht=scontent.fthe6-1.fna&oh=00_AYCToDe4DzV-IdRPYXQbYmwxzB4koHxITXqeAlZizRAlGg&oe=665C6101",
+    "produtos": [
+      { "nome_produto": "Macarrão 500g", "valor": 3.50 },
+      { "nome_produto": "Molho de Tomate 340g", "valor": 2.00 },
+      { "nome_produto": "Açúcar 1kg", "valor": 4.00 }
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Supermercado Central",
+    "oferta": "Liquidação de Inverno",
+    "descricao": "Em oferta",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8CBVk86DtzvpyJSbHtp4RpvSifW9Wing1ew&s",
+    "produtos": [
+      { "nome_produto": "Café 500g", "valor": 8.00 },
+      { "nome_produto": "Leite Integral 1L", "valor": 3.20 },
+      { "nome_produto": "Farinha de Trigo 1kg", "valor": 4.50 }
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Supermercado Família",
+    "oferta": "Festival de Frutas",
+    "descricao": "Em oferta",
+    "imagem": "https://lh3.googleusercontent.com/proxy/Ywu3OjSBQQPDIpIIB2hOQ28A56P3rjH0iVy0wvSJc87cXfKg2n7JXZU5opaFYYfB7Oybfofg9rTu8DsDfkSFLxlTsY888AdZYAUZQE8Ct8c",
+    "produtos": [
+      { "nome_produto": "Maçã 1kg", "valor": 5.00 },
+      { "nome_produto": "Banana 1kg", "valor": 4.00 },
+      { "nome_produto": "Laranja 1kg", "valor": 3.00 }
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Supermercado Completo",
+    "oferta": "Semana da Limpeza",
+    "descricao": "Não está em oferta",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBpPNlghKdoMkIuCsK-SCfR5f3_nQs25RjQA&s",
+    "produtos": [
+      { "nome_produto": "Detergente 500ml", "valor": 2.50 },
+      { "nome_produto": "Sabão em Pó 1kg", "valor": 7.50 },
+      { "nome_produto": "Desinfetante 2L", "valor": 6.00 }
+    ]
+  }
+];
+
